@@ -29,19 +29,49 @@
 
 ---
 
+## Tools I Use
+
+![Tools I Use](https://img.shields.io/badge/Tools%20I%20Use-FF6B00?style=flat)
+![Separator](https://img.shields.io/badge/%3A-FF6B00?style=flat)
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-333333?style=flat&logo=espressif&logoColor=white)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat)
+![Simulink](https://img.shields.io/badge/Simulink-F57C00?style=flat)
+![Proteus](https://img.shields.io/badge/Proteus-1E90FF?style=flat)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
 ## Programming Languages
 
-- C
-- C++
-- Python
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## Embedded Systems & Hardware
 
-- Arduino
-- ESP32
-- ESP8266
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-333333?style=for-the-badge&logo=espressif&logoColor=white)
+
 - Microcontrollers
 - Sensors and Actuators
 - Electronic Circuit Design
@@ -54,14 +84,17 @@
 
 ## Engineering & Development Tools
 
-- MATLAB
-- Simulink
-- Proteus
-- KiCad
-- Visual Studio Code
-- Xcode
-- Git
-- GitHub
+![MATLAB](https://img.shields.io/badge/MATLAB-Engineering-ED8B00?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-Simulation-F57C00?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-1E90FF?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+
+<br>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
