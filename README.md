@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
-     alt="Hello Coders"
-     width="60%" />
+# I'm Ammar EL Muhammed
+
+### Electrical & Electronics Engineering Student
+
+**Embedded Systems • Electronics • Programming • Artificial Intelligence**
+
+</div>
 
 <br><br>
 
