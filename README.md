@@ -1,111 +1,186 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> 
-<br>
+# Hi, I'm Ammar Muhammed
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
-<br><br>
+### Electrical & Electronics Engineering Student
 
-# Hi, I'm Ammar Muhammed 
-
-### Electrical & Electronics Engineering Student ⚡
-### Embedded Systems • Electronics • Programming • AI
+**Embedded Systems • Electronics • Programming • Artificial Intelligence**
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmmarMuhammed27&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AmmarMuhammed27&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - I'm an **Electrical & Electronics Engineering** student.
 - Interested in **Electronics, Embedded Systems and Microcontrollers**.
--  I work with **C and C++**.
--  Currently improving my knowledge of **Python and Artificial Intelligence**.
--  I enjoy working with **Arduino, ESP32 and ESP8266**.
--  I use engineering tools such as **MATLAB, Simulink, Proteus and KiCad**.
--  Interested in **Drone Technologies, Autonomous Systems and AI-based projects**.
--  Interested in **IoT and Smart Systems**.
--  I am continuously learning and building new engineering projects.
+- Working with **C and C++**.
+- Currently developing my skills in **Python and Artificial Intelligence**.
+- Working with **Arduino, ESP32 and ESP8266** based systems.
+- Using engineering tools such as **MATLAB, Simulink, Proteus and KiCad**.
+- Interested in **IoT, Smart Systems and Automation**.
+- Exploring **Drone Technologies and Autonomous Systems**.
+- My goal is to build real-world engineering projects combining **Electronics, Software and Artificial Intelligence**.
 
 ---
 
-##  Languages & Technologies
+## Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+- C
+- C++
+- Python
 
 ---
 
-##  Engineering Tools
+## Embedded Systems & Hardware
 
-![MATLAB](https://img.shields.io/badge/MATLAB-Engineering-orange?style=flat)
-![Simulink](https://img.shields.io/badge/Simulink-Simulation-orange?style=flat)
-![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-blue?style=flat)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+- Arduino
+- ESP32
+- ESP8266
+- Microcontrollers
+- Sensors & Actuators
+- Electronic Circuit Design
+- IoT Systems
+- Smart Systems
+- Automation
 
 ---
 
-##  Hardware & Embedded Systems
+## Engineering & Development Tools
 
-![Arduino](https://img.shields.io/badge/Arduino-Microcontrollers-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?style=flat&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-IoT-black?style=flat&logo=espressif&logoColor=white)
+- MATLAB
+- Simulink
+- Proteus
+- KiCad
+- Visual Studio Code
+- Xcode
+- Git
+- GitHub
+
+---
+
+## Technical Interests
+
+```text
+Electrical & Electronics Engineering
+│
+├── Electronics
+├── Embedded Systems
+├── Microcontrollers
+├── Internet of Things (IoT)
+├── Artificial Intelligence
+├── Drone Technologies
+├── Autonomous Systems
+├── PCB & Circuit Design
+└── Automation & Smart Systems
+```
+
+---
+
+## Currently Learning
+
+- **Python**
+- **Artificial Intelligence & Machine Learning**
+- **Advanced Embedded Systems**
+- **IoT Technologies**
+- **Drone & Autonomous Systems**
+- **PCB Design**
+- **Advanced C & C++**
+
+---
+
+## Project Areas
+
+I am interested in developing projects involving:
+
+- **Smart Home Systems**
+- **IoT Applications**
+- **Arduino Projects**
+- **ESP32 / ESP8266 Systems**
+- **AI-Based Engineering Applications**
+- **Drone Systems**
+- **Autonomous Systems**
+- **Electronic Circuit & PCB Design**
+- **Embedded Systems**
+
+---
+
+## Engineering Profile
 
 ```c
-// What I'm interested in
+#include <stdio.h>
 
-struct Ammar {
-    
+typedef struct {
+
     char *field;
-    char *programming_languages[3];
-    char *embedded_systems[4];
-    char *engineering_tools[5];
-    char *interests[6];
-};
+    char *languages;
+    char *embedded;
+    char *tools;
+    char *interests;
 
-struct Ammar me = {
+} Engineer;
 
-    .field = "Electrical & Electronics Engineering",
+int main(void)
+{
+    Engineer Ammar = {
+        "Electrical & Electronics Engineering",
+        "C | C++ | Python",
+        "Arduino | ESP32 | ESP8266",
+        "MATLAB | Simulink | Proteus | KiCad",
+        "Embedded Systems | AI | IoT | Drones | Autonomous Systems"
+    };
 
-    .programming_languages = {
-        "C",
-        "C++",
-        "Python"
-    },
+    printf("Building the future with electronics and software.\n");
 
-    .embedded_systems = {
-        "Arduino",
-        "ESP32",
-        "ESP8266",
-        "Microcontrollers"
-    },
+    return 0;
+}
+```
 
-    .engineering_tools = {
-        "MATLAB",
-        "Simulink",
-        "Proteus",
-        "KiCad",
-        "VS Code"
-    },
+---
 
-    .interests = {
-        "Embedded Systems",
-        "Electronics",
-        "Artificial Intelligence",
-        "IoT",
-        "Drone Technologies",
-        "Autonomous Systems"
-    }
-};
+## GitHub Stats
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=AmmarMuhammed27&show_icons=true&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+<img
+src="https://streak-stats.demolab.com?user=AmmarMuhammed27&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMuhammed27&layout=compact&theme=tokyonight&hide_border=true"
+height="165"
+/>
+
+</div>
+
+---
+
+## Connect With Me
+
+GitHub: **AmmarMuhammed27**
+
+---
+
+<div align="center">
+
+### Electronics • Software • Artificial Intelligence • Autonomous Systems
+
+**Learn • Build • Improve • Repeat**
+
+</div>
