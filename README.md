@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/ammar-banner.png" alt="I'm Ammar EL Muhammed" width="60%" />
+
 
 <br><br>
 
