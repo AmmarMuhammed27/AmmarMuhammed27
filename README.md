@@ -6,7 +6,13 @@
 
 **Embedded Systems • Electronics • Programming • Artificial Intelligence**
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmmarMuhammed27&label=Profile%20Views&color=0e75b6&style=flat)
+
 </div>
+
+---
 
 <br><br>
 
