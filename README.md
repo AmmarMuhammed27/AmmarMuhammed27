@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
+     alt="Hello Coders"
+     width="60%" />
+
+<br><br>
+
 # Hi, I'm Ammar Muhammed
 
 ### Electrical & Electronics Engineering Student
@@ -18,13 +24,14 @@
 
 - I'm an **Electrical & Electronics Engineering** student.
 - Interested in **Electronics, Embedded Systems and Microcontrollers**.
-- Working with **C and C++**.
+- I work with **C and C++**.
 - Currently developing my skills in **Python and Artificial Intelligence**.
-- Working with **Arduino, ESP32 and ESP8266** based systems.
-- Using engineering tools such as **MATLAB, Simulink, Proteus and KiCad**.
+- I work with **Arduino, ESP32 and ESP8266** based systems.
+- I use engineering tools such as **MATLAB, Simulink, Proteus and KiCad**.
 - Interested in **IoT, Smart Systems and Automation**.
 - Exploring **Drone Technologies and Autonomous Systems**.
-- My goal is to build real-world engineering projects combining **Electronics, Software and Artificial Intelligence**.
+- I am continuously improving my engineering and programming skills.
+- My aim is to develop real-world systems that combine **Electronics, Software and Artificial Intelligence**.
 
 ---
 
@@ -42,8 +49,9 @@
 - ESP32
 - ESP8266
 - Microcontrollers
-- Sensors & Actuators
+- Sensors and Actuators
 - Electronic Circuit Design
+- Embedded Systems
 - IoT Systems
 - Smart Systems
 - Automation
@@ -71,7 +79,7 @@ Electrical & Electronics Engineering
 ├── Electronics
 ├── Embedded Systems
 ├── Microcontrollers
-├── Internet of Things (IoT)
+├── Internet of Things
 ├── Artificial Intelligence
 ├── Drone Technologies
 ├── Autonomous Systems
@@ -83,13 +91,15 @@ Electrical & Electronics Engineering
 
 ## Currently Learning
 
-- **Python**
-- **Artificial Intelligence & Machine Learning**
-- **Advanced Embedded Systems**
-- **IoT Technologies**
-- **Drone & Autonomous Systems**
-- **PCB Design**
-- **Advanced C & C++**
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Advanced C and C++
+- Advanced Embedded Systems
+- IoT Technologies
+- Drone Technologies
+- Autonomous Systems
+- PCB Design
 
 ---
 
@@ -97,15 +107,16 @@ Electrical & Electronics Engineering
 
 I am interested in developing projects involving:
 
-- **Smart Home Systems**
-- **IoT Applications**
-- **Arduino Projects**
-- **ESP32 / ESP8266 Systems**
-- **AI-Based Engineering Applications**
-- **Drone Systems**
-- **Autonomous Systems**
-- **Electronic Circuit & PCB Design**
-- **Embedded Systems**
+- Smart Home Systems
+- IoT Applications
+- Arduino Projects
+- ESP32 and ESP8266 Systems
+- AI-Based Engineering Applications
+- Drone Systems
+- Autonomous Systems
+- Electronic Circuit Design
+- PCB Design
+- Embedded Systems
 
 ---
 
@@ -114,12 +125,12 @@ I am interested in developing projects involving:
 ```c
 #include <stdio.h>
 
-typedef struct {
-
+typedef struct
+{
     char *field;
     char *languages;
-    char *embedded;
-    char *tools;
+    char *embedded_systems;
+    char *engineering_tools;
     char *interests;
 
 } Engineer;
@@ -127,14 +138,19 @@ typedef struct {
 int main(void)
 {
     Engineer Ammar = {
+
         "Electrical & Electronics Engineering",
+
         "C | C++ | Python",
+
         "Arduino | ESP32 | ESP8266",
+
         "MATLAB | Simulink | Proteus | KiCad",
-        "Embedded Systems | AI | IoT | Drones | Autonomous Systems"
+
+        "Embedded Systems | Electronics | AI | IoT | Drones | Autonomous Systems"
     };
 
-    printf("Building the future with electronics and software.\n");
+    printf("Building engineering solutions with electronics and software.\n");
 
     return 0;
 }
@@ -179,7 +195,7 @@ GitHub: **AmmarMuhammed27**
 
 <div align="center">
 
-### Electronics • Software • Artificial Intelligence • Autonomous Systems
+### Electronics • Embedded Systems • Software • Artificial Intelligence
 
 **Learn • Build • Improve • Repeat**
 
