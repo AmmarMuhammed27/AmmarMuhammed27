@@ -6,7 +6,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 <br><br>
 
-# Hi, I'm Ammar Muhammed 👋
+# Hi, I'm Ammar Muhammed 
 
 ### Electrical & Electronics Engineering Student ⚡
 ### Embedded Systems • Electronics • Programming • AI
@@ -21,19 +21,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm an **Electrical & Electronics Engineering** student.
-- ⚡ Interested in **Electronics, Embedded Systems and Microcontrollers**.
-- 💻 I work with **C and C++**.
-- 🤖 Currently improving my knowledge of **Python and Artificial Intelligence**.
-- 🔌 I enjoy working with **Arduino, ESP32 and ESP8266**.
-- 🛠️ I use engineering tools such as **MATLAB, Simulink, Proteus and KiCad**.
-- 🚁 Interested in **Drone Technologies, Autonomous Systems and AI-based projects**.
-- 📡 Interested in **IoT and Smart Systems**.
-- 📚 I am continuously learning and building new engineering projects.
+- I'm an **Electrical & Electronics Engineering** student.
+- Interested in **Electronics, Embedded Systems and Microcontrollers**.
+-  I work with **C and C++**.
+-  Currently improving my knowledge of **Python and Artificial Intelligence**.
+-  I enjoy working with **Arduino, ESP32 and ESP8266**.
+-  I use engineering tools such as **MATLAB, Simulink, Proteus and KiCad**.
+-  Interested in **Drone Technologies, Autonomous Systems and AI-based projects**.
+-  Interested in **IoT and Smart Systems**.
+-  I am continuously learning and building new engineering projects.
 
 ---
 
-## 🚀 Languages & Technologies
+##  Languages & Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ Engineering Tools
+##  Engineering Tools
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Engineering-orange?style=flat)
 ![Simulink](https://img.shields.io/badge/Simulink-Simulation-orange?style=flat)
@@ -57,7 +57,7 @@
 
 ---
 
-## ⚡ Hardware & Embedded Systems
+##  Hardware & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-Microcontrollers-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?style=flat&logo=espressif&logoColor=white)
